@@ -1,1 +1,19 @@
+# Sets the theme for the entire website
 theme: minima
+
+# Site settings
+permalink: pretty
+author: "David Kudláček"
+email: "davidkudlacek04@gmail.com"
+description: "There has never been a better time to start."
+
+# Social links
+github_username: "david-kudlacek"
+linkedin_username: "dkudlacek"
+
+# Ignore these files and directories when building site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/ bundle/

@@ -1,5 +1,5 @@
 ---
-title: "My Homepage"
+title: "Welcome"
 ---
 
-# Hello!
+You've stumbled into my place.
