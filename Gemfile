@@ -1,8 +1,8 @@
-# frozen_string_literal: true
+require_relative '_plugins/ruby_compat.rb'
 
 source "https://rubygems.org"
 
-gem "github-pages"
+gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 gem "csv"
 gem "bigdecimal"
