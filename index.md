@@ -1,4 +1,8 @@
 ---
-layout: default
-title: "My Homepage"
+layout: home
+title: "Home"
 ---
+
+Hi, I'm David (but used to Dave too). I'm a software engineering student at FIT
+CTU in Prague focusing on architecture design and design patterns. This is my
+personal corner where I log what I'm learning.
