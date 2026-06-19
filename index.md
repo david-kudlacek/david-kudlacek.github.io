@@ -1,5 +1,8 @@
 ---
-title: "Welcome"
+layout: home
+title: "Home"
 ---
 
-You've stumbled into my place.
+Hi, I'm David (but used to Dave too). I'm a software engineering student at FIT
+CTU in Prague focusing on architecture design and design patterns. This is my
+personal corner where I log what I'm learning.
