@@ -7,6 +7,8 @@ date: 2026-06-20
 [Git][git] is an open source version control system, one that I've been having trouble
 utilising effectively.
 
+## Commits
+
 In university, we had an introductory course to Git. It covered the basics, and
 because we also had a programming course, we could apply the learned knowledge
 right away. The issue was that I was versioning my code for myself, and only
@@ -26,6 +28,13 @@ Since we weren't automating releasing and semantic versioning, we did not make
 use of the prefixes. Now, if I had to work in a team again, I'd consider my
 options and what could benefit us the most *before* writing lines of code.
 
+The article above offers a useful tip. Your commit message should complete the
+following sentence:
+
+> If applied, this commit will...
+
+## Teamwork
+
 A bigger habit to kick, and something that I'm still learning, was deciding how
 big commits and PR's (or MR's) should be. Have you seen a 500 line PR? How about
 a 2000 line PR? In my experience, the former can be revised much easier than the
@@ -40,6 +49,8 @@ It's not just about the line count, but the content, too. It's tempting to look
 at a typo or a very simple QoL change while working on something unrelated and
 cave in and just throw it into a commit. Your future you will thank you if you
 note the change down instead and do it later.
+
+## Parting Words
 
 I hope after reading this post, your `Fix typo in blog` commit won't contain a
 security patch.
