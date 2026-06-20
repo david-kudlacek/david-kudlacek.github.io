@@ -12,7 +12,7 @@ utilising effectively.
 In university, we had an introductory course to Git. It covered the basics, and
 because we also had a programming course, we could apply the learned knowledge
 right away. The issue was that I was versioning my code for myself, and only
-myself. Surprisingly, when you version for youself, you tend to take shortcuts.
+myself. Surprisingly, when you version for yourself, you tend to take shortcuts.
 How often do you see a commit that talks about one thing, but when you check
 what's changed, it actually does *two* things? Or commit messages that aren't
 there to help the future maintainers understand the code?
